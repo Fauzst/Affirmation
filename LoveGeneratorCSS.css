@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('sanrio.jpg') no-repeat center center/ cover;
+    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fyellow-maiden.tumblr.com%2Fpost%2F718435163139440640%2Fsanrio-wallpapers&psig=AOvVaw1PkJ9a8jEHi7vpaC9A3VBR&ust=1702145588464000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODu1cu4gIMDFQAAAAAdAAAAABAD') no-repeat center center/ cover;
     height: 100vh;
     display: flex;
     justify-content: center;
